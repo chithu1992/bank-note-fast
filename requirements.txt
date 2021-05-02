@@ -1,0 +1,9 @@
+gunicorn   #to run the app in cloud, it is preffered.similar to flask which is used to run
+fastapi
+uvloop
+httptools
+matplotlib
+pandas
+scikit-learn
+numpy
+scipy
